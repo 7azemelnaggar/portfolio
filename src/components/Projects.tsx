@@ -9,8 +9,8 @@ const Projects = () => {
       description: "Developed a professional company website with advanced SEO optimization and exceptional loading performance. Implemented modern web technologies for optimal user experience.",
       techStack: ["HTML5", "CSS3", "JavaScript", "SEO", "Performance Optimization"],
       image: "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800",
-      liveUrl: "#",
-      githubUrl: "#",
+      liveUrl: "https://craftexeg.com/",
+      githubUrl: "https://github.com/7azemelnaggar",
       featured: true
     },
     {
@@ -19,7 +19,7 @@ const Projects = () => {
       description: "Object-oriented Java application for comprehensive flight booking management. Features customer management, itinerary planning, and booking system with robust data handling.",
       techStack: ["Java", "OOP", "Data Structures", "File I/O"],
       image: "https://images.pexels.com/photos/358319/pexels-photo-358319.jpeg?auto=compress&cs=tinysrgb&w=800",
-      githubUrl: "#",
+      githubUrl: "https://github.com/7azemelnaggar",
       featured: true
     },
     {
@@ -28,7 +28,7 @@ const Projects = () => {
       description: "Advanced course registration system built with Java, utilizing linked lists and dynamic storage for efficient data management. Features student enrollment and course scheduling.",
       techStack: ["Java", "Linked Lists", "Dynamic Storage", "Data Management"],
       image: "https://images.pexels.com/photos/267507/pexels-photo-267507.jpeg?auto=compress&cs=tinysrgb&w=800",
-      githubUrl: "#",
+      githubUrl: "https://github.com/7azemelnaggar",
       featured: false
     },
     {
@@ -37,7 +37,7 @@ const Projects = () => {
       description: "Comprehensive data analysis tool with GUI interface. Features data cleaning, deduplication algorithms, and advanced visualization capabilities for complex datasets.",
       techStack: ["R", "Data Analysis", "GUI", "Visualization", "Statistics"],
       image: "https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=800",
-      githubUrl: "#",
+      githubUrl: "https://github.com/7azemelnaggar",
       featured: false
     }
   ];
