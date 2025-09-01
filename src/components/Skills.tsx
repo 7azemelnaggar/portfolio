@@ -21,11 +21,11 @@ const Skills = () => {
       title: "Other Skills",
       skills: [
         { name: "SQL", icon: Database, color: "text-cyan-400" },
-        { name: "Web Hosting", icon: Globe, color: "text-green-400" },
-        { name: "Excel", icon: FileSpreadsheet, color: "text-green-500" },
-        { name: "Kali Linux", icon: Terminal, color: "text-purple-400" },
         { name: "Problem-solving", icon: Wrench, color: "text-yellow-400" },
-        { name: "Data Analysis", icon: Search, color: "text-cyan-400" }
+        { name: "Excel", icon: FileSpreadsheet, color: "text-green-500" },
+        { name: "Web Hosting", icon: Globe, color: "text-green-400" },
+        { name: "Data Analysis", icon: Search, color: "text-cyan-400" },
+        { name: "Kali Linux", icon: Terminal, color: "text-purple-400" }
       ]
     }
   ];
