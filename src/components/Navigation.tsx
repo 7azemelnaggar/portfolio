@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, X, Shield } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -52,12 +52,19 @@ const Navigation = () => {
       <div className="container mx-auto px-6">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <div className="flex items-center space-x-2">
+          {/* <div className="flex items-center space-x-2">
             <div className="p-2 bg-gradient-to-r from-cyan-400 to-green-400 rounded-lg">
               <Shield className="w-6 h-6 text-black" />
             </div>
             <span className="text-xl font-bold text-white">Hazem ElNaggar</span>
+          </div> */}
+            <a href="#hero">
+          <div className="flex items-center space-x-2">
+
+          <img src="https://i.postimg.cc/9FyXyQRk/cropped-circle-image-4.png" alt="Hazem ElNaggar Logo" className="w-10 h-10 rounded-full" />
+          <span className="text-xl font-bold text-white">Hazem ElNaggar</span>
           </div>
+            </a>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">

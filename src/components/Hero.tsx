@@ -24,13 +24,13 @@ const Hero = () => {
           
           {/* Subtitle */}
           <p className="text-xl md:text-2xl text-gray-300 mb-4 animate-fade-in delay-300">
-            Developer
+            Software Developer
           </p>
           
           {/* Description */}
           <p className="text-lg text-gray-400 mb-8 max-w-2xl mx-auto leading-relaxed animate-fade-in delay-500">
             Passionate about software development and IT solutions,
-            Currently studying Cybersecurity at Faculty of Computers & Data Sciences, Alexandria University with hands-on experience in Java, Python, and data analysis.
+            Currently studying Cybersecurity at Faculty of Computers & Data Science, Alexandria University with hands-on experience in Java, Python, and data analysis.
           </p>
           
           {/* Social links */}

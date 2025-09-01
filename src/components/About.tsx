@@ -15,7 +15,7 @@ const About = () => {
               <div className="relative">
                 <div className="w-80 h-80 mx-auto rounded-full overflow-hidden border-4 border-cyan-400/30 shadow-2xl shadow-cyan-400/20">
                   <img 
-                    src="https://i.postimg.cc/WbLgDVwj/cropped-circle-image.png" 
+                    src="https://i.postimg.cc/rsWxL2hP/IMG-6623.png" 
                     alt="Hazem ElNaggar" 
                     className="w-full h-full object-cover"
                   />
@@ -34,7 +34,7 @@ const About = () => {
             
             <div className="space-y-6">
               <p className="text-lg text-gray-300 leading-relaxed">
-                Dedicated Cybersecurity student at Faculty of Computers & Data Sciences, Alexandria University
+                Dedicated Cybersecurity student at Faculty of Computers & Data Science, Alexandria University
                 with a passion for technology.
                 My expertise spans multiple programming languages including <span className="text-cyan-400 font-semibold">Python</span>, 
                 <span className="text-blue-400 font-semibold"> Java</span>, and 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Shield, Github, Linkedin, Mail, Instagram, Heart } from 'lucide-react';
+import { Github, Linkedin, Mail, Instagram, Heart } from 'lucide-react';
 
 const Footer = () => {
   const socialLinks = [
@@ -51,13 +51,11 @@ const Footer = () => {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Brand Section */}
           <div className="lg:col-span-2">
-            <div className="flex items-center space-x-3 mb-4">
-              <div className="p-2 bg-gradient-to-r from-cyan-400 to-green-400 rounded-lg">
-                <Shield className="w-6 h-6 text-black" />
-              </div>
-              <h3 className="text-xl font-bold text-white">Hazem ElNaggar</h3>
-            </div>
-            
+          <div className="flex items-center space-x-2">
+
+<img src="https://i.postimg.cc/9FyXyQRk/cropped-circle-image-4.png" alt="Hazem ElNaggar Logo" className="w-10 h-10 rounded-full" />
+<span className="text-xl font-bold text-white">Hazem ElNaggar</span>
+</div>            
             <p className="text-gray-400 mb-6 leading-relaxed max-w-md">
               Cybersecurity student | Software Developer
             </p>
@@ -125,10 +123,10 @@ const Footer = () => {
             
             <div className="text-center md:text-right">
               <p className="text-gray-400 text-sm">
-              “I have no special talents. I am only passionately curious.”
+              “hello-world/”
               </p>
               <p className="text-gray-400 text-sm">
-              ~ Albert Einstein
+              
               </p>
             </div>
           </div>
