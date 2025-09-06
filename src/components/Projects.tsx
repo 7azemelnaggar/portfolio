@@ -8,7 +8,7 @@ const Projects = () => {
       date: "07/2025",
       description: "Developed a professional company website with advanced SEO optimization and exceptional loading performance. Implemented modern web technologies for optimal user experience.",
       techStack: ["HTML5", "CSS3", "JavaScript", "SEO", "Performance Optimization"],
-      image: "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "https://i.postimg.cc/YCgkD41Z/Screenshot-2025-09-06-144435.png",
       liveUrl: "https://craftexeg.com/",
       githubUrl: "https://github.com/7azemelnaggar",
       featured: true
